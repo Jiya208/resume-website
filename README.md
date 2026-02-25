@@ -1,1 +1,1 @@
-# Static-resume-website
+# resume-website
